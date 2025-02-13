@@ -1,0 +1,1 @@
+This repository is for a computational application that performs float32 multiplications on a large square array. The program executes both on CPU and GPU, thus the results shows the time acceleration that GPU execution offers.
